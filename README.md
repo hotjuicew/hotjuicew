@@ -10,13 +10,13 @@ Sometimes I write articles on [my blog](https://add1.dev).
 
 #### Backend:
 
-![Go][shield_go] ![Python][shield_python]  ![C][shield_c] ![cpp][shield_cpp] ![Java][shield_java]
+![Go][shield_go] ![Python][shield_python]  ![C][shield_c] ![cpp][shield_cpp] ![Java][shield_java]![MySQL][shield_mysql]
 
 #### Frontend
 ![TypeScript][shield_typescript] ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass] ![React][shield_react] ![Vue][shield_vue-js]
 
 #### Operating System
-![Linux][shield_linux] ![Windows][shield_windows] ![MySQL][shield_mysql]
+![Linux][shield_linux] ![Windows][shield_windows] 
 
 #### Tools
 ![VS Code][shield_vs-code] ![Docker][shield_docker] ![Hugo][shield_hugo] ![git][shield_git]
