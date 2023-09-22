@@ -10,7 +10,7 @@ Sometimes I write articles on [my blog](https://add1.dev).
 
 #### Backend:
 
-![Go][shield_go] ![Python][shield_python]  ![C][shield_c] ![cpp][shield_cpp] ![Java][shield_java]![MySQL][shield_mysql]
+![Go][shield_go] ![Python][shield_python]  ![C][shield_c] ![cpp][shield_cpp] ![Java][shield_java] ![MySQL][shield_mysql] ![Redis][shield_redis] ![Mongodb][shield_mongodb]
 
 #### Frontend
 ![TypeScript][shield_typescript] ![JavaScript][shield_javascript] ![HTML5][shield_html5] ![CSS3][shield_css3] ![Sass][shield_sass] ![React][shield_react] ![Vue][shield_vue-js]
