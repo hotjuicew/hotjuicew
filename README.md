@@ -1,5 +1,5 @@
-## hotjuicew
-Hi there! 👋 I'm hotjuicew
+## Juice
+Hi there! 👋 I'm Juice
 - Bachelor's Degree in Accounting and Computer Science
 - Interested in a lot of things
 - Love Open Source & knowledge sharing
