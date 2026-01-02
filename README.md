@@ -4,7 +4,7 @@ Hi there! 👋 I'm HotJuice
 - Interested in a lot of things
 - Love Open Source & knowledge sharing
 
-Sometimes I write articles on [my blog](https://add1.dev).
+Sometimes I write articles on [my blog](https://hotjuicew.github.io/).
 
 ### :microscope: Tech & Tools Preference
 
